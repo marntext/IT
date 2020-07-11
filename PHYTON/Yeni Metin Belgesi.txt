@@ -1,0 +1,3 @@
+And operator : The and operator evaluates all expressions and returns the last expression if all expressions are evaluated True. Otherwise, it returns the ?rst value that evaluated False.
+
+Or operator : The or operator evaluates the expressions left to right and returns the ?rst value that evaluated True or the last value (if none is True).
