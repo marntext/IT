@@ -1,0 +1,13 @@
+from module import my_function_1
+
+area_1 = my_function_1(3, 4)
+area_2 = my_function_1(5, 6)
+area_3 = my_function_1(6, 8)
+
+
+
+from module import my_function_2
+
+hypotenuse_1 = my_function_2(3, 4)
+hypotenuse_2 = my_function_2(6, 8)
+hypotenuse_3 = my_function_2(9, 12)
